@@ -1,4 +1,4 @@
-<p align="center"><img alt="杨阳的不落阁" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="杨阳的不落阁" src="http://149.129.58.119/favicon.ico"></p><h2 align="center">
 杨阳的不落阁
 </h2>
 
@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [一时火爆灵鸽到底是什么?看这篇文章就够了](http://zxacn.com/articles/2019/08/28/1566987045440.html)
+* [前快播CEO王欣新产品灵鸽邀请码注册码](http://zxacn.com/articles/2019/08/28/1566982844804.html)
 * [UnblockNeteaseMusic解锁网易云音乐无版权限制灰色歌单](http://zxacn.com/articles/2019/08/28/1566965869612.html)
 * [Ubuntu14,16,Linux一键安装Docker服务](http://zxacn.com/articles/2019/08/27/1566880504868.html)
 * [宝塔面板-简单好用的服务器运维面板](http://zxacn.com/articles/2019/08/23/1566555607610.html)
@@ -28,8 +30,6 @@
 * [MySQL5.6安装后内存占用高解决方案](http://zxacn.com/articles/2019/08/02/1564729999649.html)
 * [CM14.1（sudmod71.1）从0开始编译教程](http://zxacn.com/articles/2019/08/02/1564729967975.html)
 * [回顾往昔，展望未来，2019 砥砺前行](http://zxacn.com/articles/2019/08/02/1564729940199.html)
-* [致青春——我的高中时代](http://zxacn.com/articles/2019/08/02/1564729884769.html)
-* [Flutter在构建时卡住不动的解决方案](http://zxacn.com/articles/2019/08/02/1564729818249.html)
 
 ### 热门
 
@@ -42,6 +42,8 @@
 * [eZip专为国人设计的MacOS上免费解压缩软件支持不解压预览](http://zxacn.com/articles/2019/08/02/1564728932551.html)
 * [我在 GitHub 上的开源项目](http://zxacn.com/my-github-repos)
 * [MacOS上小而美的桌面壁纸应用pap.er](http://zxacn.com/articles/2019/08/02/1564728832918.html)
+* [Flutter在构建时卡住不动的解决方案](http://zxacn.com/articles/2019/08/02/1564729818249.html)
+* [致青春——我的高中时代](http://zxacn.com/articles/2019/08/02/1564729884769.html)
 
 
 
