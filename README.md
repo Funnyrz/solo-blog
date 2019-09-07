@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [记一次绕过某报考系统排队登录验证](http://zxacn.com/articles/2019/09/06/1567764637853.html)
 * [一时火爆灵鸽到底是什么?看这篇文章就够了](http://zxacn.com/articles/2019/08/28/1566987045440.html)
 * [前快播CEO王欣新产品灵鸽邀请码注册码](http://zxacn.com/articles/2019/08/28/1566982844804.html)
 * [UnblockNeteaseMusic解锁网易云音乐无版权限制灰色歌单](http://zxacn.com/articles/2019/08/28/1566965869612.html)
@@ -29,7 +30,6 @@
 * [同步github上源码失败时自动重试脚本](http://zxacn.com/articles/2019/08/02/1564730051837.html)
 * [MySQL5.6安装后内存占用高解决方案](http://zxacn.com/articles/2019/08/02/1564729999649.html)
 * [CM14.1（sudmod71.1）从0开始编译教程](http://zxacn.com/articles/2019/08/02/1564729967975.html)
-* [回顾往昔，展望未来，2019 砥砺前行](http://zxacn.com/articles/2019/08/02/1564729940199.html)
 
 ### 热门
 
@@ -44,6 +44,7 @@
 * [Flutter在构建时卡住不动的解决方案](http://zxacn.com/articles/2019/08/02/1564729818249.html)
 * [MacOS上小而美的桌面壁纸应用pap.er](http://zxacn.com/articles/2019/08/02/1564728832918.html)
 * [致青春——我的高中时代](http://zxacn.com/articles/2019/08/02/1564729884769.html)
+* [回顾往昔，展望未来，2019 砥砺前行](http://zxacn.com/articles/2019/08/02/1564729940199.html)
 
 
 
