@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Web H5 Vue项目打包为安卓 iOS或桌面Windows应用](http://zxacn.com/articles/2019/09/18/1568779039385.html)
 * [记一次绕过某报考系统排队登录验证](http://zxacn.com/articles/2019/09/06/1567764637853.html)
 * [一时火爆灵鸽到底是什么?看这篇文章就够了](http://zxacn.com/articles/2019/08/28/1566987045440.html)
 * [前快播CEO王欣新产品灵鸽邀请码注册码](http://zxacn.com/articles/2019/08/28/1566982844804.html)
@@ -29,7 +30,6 @@
 * [Ubuntu安装Nginx服务及配置](http://zxacn.com/articles/2019/08/02/1564730132747.html)
 * [同步github上源码失败时自动重试脚本](http://zxacn.com/articles/2019/08/02/1564730051837.html)
 * [MySQL5.6安装后内存占用高解决方案](http://zxacn.com/articles/2019/08/02/1564729999649.html)
-* [CM14.1（sudmod71.1）从0开始编译教程](http://zxacn.com/articles/2019/08/02/1564729967975.html)
 
 ### 热门
 
@@ -40,6 +40,7 @@
 * [NVIDIA Web Driver 387.10.10.10.40.105黑苹果英伟达独立显卡Web驱动](http://zxacn.com/articles/2019/08/02/1564728666939.html)
 * [(PC全平台)Http下载工具，支持多连接分块下载(满速下载百度云)](http://zxacn.com/articles/2019/08/02/1564729741128.html)
 * [Flutter在构建时卡住不动的解决方案](http://zxacn.com/articles/2019/08/02/1564729818249.html)
+* [CM14.1（sudmod71.1）从0开始编译教程](http://zxacn.com/articles/2019/08/02/1564729967975.html)
 * [我在 GitHub 上的开源项目](http://zxacn.com/my-github-repos)
 * [eZip专为国人设计的MacOS上免费解压缩软件支持不解压预览](http://zxacn.com/articles/2019/08/02/1564728932551.html)
 * [MacOS上小而美的桌面壁纸应用pap.er](http://zxacn.com/articles/2019/08/02/1564728832918.html)
