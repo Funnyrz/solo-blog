@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [站点Nginx配置HTTPS以及HTTPS下访问静态资源](http://zxacn.com/articles/2019/10/31/1572513888548.html)
 * [Web H5 Vue项目打包为安卓 iOS或桌面Windows应用](http://zxacn.com/articles/2019/09/18/1568779039385.html)
 * [记一次绕过某报考系统排队登录验证](http://zxacn.com/articles/2019/09/06/1567764637853.html)
 * [一时火爆灵鸽到底是什么?看这篇文章就够了](http://zxacn.com/articles/2019/08/28/1566987045440.html)
@@ -29,7 +30,6 @@
 * [Linux环境下Mysql的备份恢复操作](http://zxacn.com/articles/2019/08/02/1564730220016.html)
 * [Ubuntu安装Nginx服务及配置](http://zxacn.com/articles/2019/08/02/1564730132747.html)
 * [同步github上源码失败时自动重试脚本](http://zxacn.com/articles/2019/08/02/1564730051837.html)
-* [MySQL5.6安装后内存占用高解决方案](http://zxacn.com/articles/2019/08/02/1564729999649.html)
 
 ### 热门
 
@@ -44,6 +44,7 @@
 * [我在 GitHub 上的开源项目](http://zxacn.com/my-github-repos)
 * [MacOS上小而美的桌面壁纸应用pap.er](http://zxacn.com/articles/2019/08/02/1564728832918.html)
 * [eZip专为国人设计的MacOS上免费解压缩软件支持不解压预览](http://zxacn.com/articles/2019/08/02/1564728932551.html)
+* [MySQL5.6安装后内存占用高解决方案](http://zxacn.com/articles/2019/08/02/1564729999649.html)
 * [致青春——我的高中时代](http://zxacn.com/articles/2019/08/02/1564729884769.html)
 * [回顾往昔，展望未来，2019 砥砺前行](http://zxacn.com/articles/2019/08/02/1564729940199.html)
 
