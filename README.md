@@ -5,11 +5,12 @@
 <h4 align="center">猛兽总是独行,牛羊才成群结队</h4>
 <p align="center"><a title="杨阳的不落阁" target="_blank" href="https://github.com/Funnyrz/solo-blog"><img src="https://img.shields.io/github/last-commit/Funnyrz/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Funnyrz/solo-blog"><img src="https://img.shields.io/github/repo-size/Funnyrz/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/Funnyrz/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Funnyrz/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [简单说一下我对于这个博客站点后面的规划](http://zxacn.com/articles/2019/11/26/1574774955609.html)
 * [站点Nginx配置HTTPS以及HTTPS下访问静态资源](http://zxacn.com/articles/2019/10/31/1572513888548.html)
 * [Web H5 Vue项目打包为安卓 iOS或桌面Windows应用](http://zxacn.com/articles/2019/09/18/1568779039385.html)
 * [记一次绕过某报考系统排队登录验证](http://zxacn.com/articles/2019/09/06/1567764637853.html)
@@ -29,7 +30,6 @@
 * [号外号外--博客程序已经更换完成](http://zxacn.com/articles/2019/08/02/1564730738040.html)
 * [Linux环境下Mysql的备份恢复操作](http://zxacn.com/articles/2019/08/02/1564730220016.html)
 * [Ubuntu安装Nginx服务及配置](http://zxacn.com/articles/2019/08/02/1564730132747.html)
-* [同步github上源码失败时自动重试脚本](http://zxacn.com/articles/2019/08/02/1564730051837.html)
 
 ### 热门
 
@@ -41,10 +41,11 @@
 * [Flutter在构建时卡住不动的解决方案](http://zxacn.com/articles/2019/08/02/1564729818249.html)
 * [(PC全平台)Http下载工具，支持多连接分块下载(满速下载百度云)](http://zxacn.com/articles/2019/08/02/1564729741128.html)
 * [我在 GitHub 上的开源项目](http://zxacn.com/my-github-repos)
-* [CM14.1（sudmod71.1）从0开始编译教程](http://zxacn.com/articles/2019/08/02/1564729967975.html)
 * [MacOS上小而美的桌面壁纸应用pap.er](http://zxacn.com/articles/2019/08/02/1564728832918.html)
+* [CM14.1（sudmod71.1）从0开始编译教程](http://zxacn.com/articles/2019/08/02/1564729967975.html)
 * [eZip专为国人设计的MacOS上免费解压缩软件支持不解压预览](http://zxacn.com/articles/2019/08/02/1564728932551.html)
 * [MySQL5.6安装后内存占用高解决方案](http://zxacn.com/articles/2019/08/02/1564729999649.html)
+* [同步github上源码失败时自动重试脚本](http://zxacn.com/articles/2019/08/02/1564730051837.html)
 * [致青春——我的高中时代](http://zxacn.com/articles/2019/08/02/1564729884769.html)
 * [回顾往昔，展望未来，2019 砥砺前行](http://zxacn.com/articles/2019/08/02/1564729940199.html)
 
@@ -52,4 +53,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
